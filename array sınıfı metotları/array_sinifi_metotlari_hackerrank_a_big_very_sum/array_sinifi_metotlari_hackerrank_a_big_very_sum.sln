@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array_sinifi_metotlari_hackerrank_a_big_very_sum", "array_sinifi_metotlari_hackerrank_a_big_very_sum\array_sinifi_metotlari_hackerrank_a_big_very_sum.csproj", "{D6D1E5BA-89F5-4BC9-84B5-D17EF9084F64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6D1E5BA-89F5-4BC9-84B5-D17EF9084F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D1E5BA-89F5-4BC9-84B5-D17EF9084F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D1E5BA-89F5-4BC9-84B5-D17EF9084F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D1E5BA-89F5-4BC9-84B5-D17EF9084F64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F51BC1EC-D482-4675-99B2-8A06049ABD9F}
+	EndGlobalSection
+EndGlobal
